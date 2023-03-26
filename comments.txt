@@ -1,0 +1,1 @@
+[{"author":{"avatar":{}},"offer":{"title":"перше оголошення іде як тестове","address":"35.71293, 139.74782","price":"1000","type":1000,"rooms":"1","guests":"1","checkin":"12:00","checkout":"12:00","features":["wifi","dishwasher","parking"],"description":"тестове","photos":{},"location":{"x":"35.71293","y":" 139.74782"}}}]
